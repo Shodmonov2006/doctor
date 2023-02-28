@@ -1,0 +1,236 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 100%;
+    height: 120vh;
+    background-image: url(./hero-cover.5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.photo{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 120vh;
+}
+.container1{
+    padding-top: 15px;
+    display: flex;
+   text-align: center;
+}
+nav{
+    padding-top: 20px;
+}
+.h1{
+    width: 190px;
+    height: 60px;
+    color: rgb(255, 255, 255);
+    padding-left: 150px;
+    padding-right: 30px;
+    padding-top: 7px;
+    font-family: sans-serif;
+}
+.ul{
+    display: flex;
+}
+.liiiiii{
+    width: 70px;
+    list-style-type: none;
+    color: white;
+    font-family: sans-serif;
+}
+.li{
+    font-family: sans-serif;
+    padding-right: 300px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    border-color: blue ;
+    background-color: rgb(85, 85, 245);
+    cursor: pointer;
+}
+.h6{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+}
+.input{
+    width: 250px;
+    height: 510px;
+    background-color: rgb(255, 255, 255);
+    align-content: space-between;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 30px;
+}
+.obshi-input{
+    text-align: center;
+}
+.cintainer1{
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+   
+}
+.button{
+    width: 150px;
+    border-radius: 40px;
+}
+.button1{
+    border-color: white;
+    background-color: white;
+}
+p{
+    font-family: sans-serif;
+    width: 270px;
+    color: white;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+h3{
+    padding-top: 30px;
+    color: white;
+    font-size: 48px;
+    font-family: sans-serif;
+}
+.input{
+   margin-left: 400px;
+}
+.centerr{
+    width: 190px;
+    height: 35px;
+}
+.h4{
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+.innnput{
+    width: 190px;
+    height: 33px;
+    border-radius: 5px;
+}
+.yyy{
+    margin-right: 150px;
+}
+.buttton{
+    width: 190px;
+    height: 35px;
+    margin-top: 35px;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+.text{
+    padding-top: 100px;
+}
+.hh3{
+    color: white;
+}
+.comtainer{
+    padding-top: 120px;
+    text-align: center;
+}
+.p11{
+    width: 500px;
+    color: black;
+    padding-left: 420px;
+    padding-top: 20px;
+    font-family: sans-serif;
+    color: rgb(169, 169, 169);
+    font-size: 14px;
+}
+.tteexxtt{
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(38, 38, 38);
+}
+.liii{
+    width: 150px;
+    height: 40px;
+    color: rgb(167, 166, 166);
+    margin-left: 55px;
+    font-size: 12px;
+}
+.glav-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.fff{
+    width: 250px;
+    height: 80px;
+    background-color: rgb(115, 138, 237);
+    display: flex;
+    border-radius: 5px;
+}
+.con1{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    border: 1px solid rgb(83, 83, 245);
+    box-shadow: 0px 0px 85px 1px  rgb(83, 83, 245);
+}
+a{
+    margin-left: 54px;
+    text-decoration: none;
+}
+.color{
+    width: 55px;
+    height: 55px;
+    background-color: white;
+    border-radius: 50px;
+    margin-left: 30px;
+    margin-top: 14.9px;
+}
+.fa-solid{
+    text-align: center;
+    font-size: 22px;
+    color: rgb(0, 85, 255);
+    margin-left: 14px;
+    margin-top: 14px;
+}
+h5{
+    color: white;
+    margin-left: 25px;
+    margin-top: 35px;
+}
+.hhh{
+    border-radius: 5px;
+}
+input{
+    background-color: rgb(226, 225, 225);
+}
+select{
+    background-color: rgb(226, 225, 225);
+}
+.pp{
+    color: rgb(146, 145, 145);
+    margin-top: 8px;
+}
+
+.fa-brands{
+    color: rgb(80, 80, 255);
+}
+.ennd{
+    font-family: sans-serif;
+    color: rgb(41, 41, 41);
+}
+.end{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-left: 100px;
+ 
+}
+.hhh{
+    font-size: 12px;
+    color: rgb(126, 126, 126);
+    text-align: center;
+    margin-top: 30px;
+}
+
